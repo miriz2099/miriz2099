@@ -1,4 +1,6 @@
 ## Hi there 👋
+# Welcome to my GitHub profile 
+I'm learning software engineering and building cool projects!
 
 <!--
 **miriz2099/miriz2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
